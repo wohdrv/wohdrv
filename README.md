@@ -1,21 +1,41 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" height=250"/>
 </div>
-<h1 align="center">Привет! Я <a href="" target="_blank">Жанибек</a> 
+<h1 align="center">Hello! I am <a href="" target="_blank">Zhanibek</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Начинающий программист из Казахстана :computer:</h3>
+<h3 align="center">Aspiring mechatronics engineer and programmer from Kazakhstan! :computer:</h3>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=wohdrv&style=flat-square&color=blue" alt="" height="28"/></div>
-<h2>:fire: О себе</h2>
+<h2>:fire: About me</h2>
 
-Меня зовут Жанибек, мне 17 лет и я программист с фокусом на Python. Я нахожу удовольствие в процессе создания программ и решении сложных задач. Мой опыт включает в себя создание простых проектов, по типу [**Tetris**](https://github.com/wohdrv/Tetris), [**Крестики-Нолики**](https://github.com/wohdrv/Tic-Tac-Toe) и другие.  
-Я изучаю другие языки программирования для дальнейшего развития и стремлюсь к глубокому пониманию принципов программирования. Уверен, что мои знания и навыки помогут мне достичь значимых результатов в этой области.
+I’m 18 and I'm a student and aspiring robotics engineer from Kazakhstan :kazakhstan:  
+Interested in **robotics, embedded systems, Python, and applied AI**.
 
-<h2>:mailbox: Мои контакты</h2>
+🔧 I build programs and practical engineering projects — from simple projects like [**Tetris**](https://github.com/wohdrv/Tetris) to Arduino control projects, LEGO EV3 robots and more...   
+💻 I enjoy working close to hardware: sensors, motors, microcontrollers, and system-level software.  
 
-Со мной вы сможете всегда связаться через следующие ссылки:
+### 🔬 What I work with
+- Python (automation, hardware control, audio systems)
+- HTML, CSS (learning, fundamentals & web basics)
+- C++ (contolling robotic systems)
+- Robotics (motors, kinematics, control logic)
+- Microcontrollers & electronics (basic level)
+
+### 🏆 Background
+- Multiple certificates and awards in **informatics / programming olympiads**
+- Winner of **robotics competitions** and international engineering events
+- Team project contributor (main technical implementation)
+
+### 🚀 Long-term vision
+Founder of **Zharyq** — a future smart clothing project combining Kazakh national ornaments with LED and wearable technologies.
+
+> I believe engineering should connect culture, technology, and real-world impact.
+
+<h2>:mailbox: My contacts</h2>
+
+You can always contact me through the following links:
 * [**Telegram**](https://t.me/wohdrv)
 * [**Instagram**](https://www.instagram.com/wohdrv/)
-* [**Discord**](https://discordapp.com/users/603127210357948438/)
+* [**Email**](mailto:zhanik.nur04@gmail.com)
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/23/7a/c5/237ac54cdea81df47af9a65f895ee6db.gif" width="200"/>
